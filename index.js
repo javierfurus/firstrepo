@@ -1,3 +1,4 @@
+//egy ujabb komment sor
 // pelda komment sor
 const calculator = require('./calculator');
 

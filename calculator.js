@@ -1,5 +1,5 @@
 const div = (a, b) => { // Ez itt most egy semistandard tűrő comment
-	return a / b;
+	return a / b; // itt van megint egy
 }
 const sum = (a, b) => {
 	return a + b;
